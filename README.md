@@ -1,4 +1,4 @@
-# Titanic: EDA + Machine-Learning
+# Titanic: Exploratory Data Analysis and Application of Machine Learning
 
 The dataset contains details of the passengers of the ship Titanic that sank after colliding with an iceberg in 1912.<br>
 The EDA focuses on the passengers who survived and who did not, and shows the survival rate corresponding to passenger class, age and gender.
